@@ -1,0 +1,7 @@
+name: Hello World
+description: Adds the mt:helloworld tag
+version: 1.0
+
+tags:
+    function:
+        helloworld: $HelloWorld::HelloWorld::Tags::_hdlr_hello_world
